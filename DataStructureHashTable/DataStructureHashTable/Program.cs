@@ -11,6 +11,6 @@ hashtable.Add("4", "to");
 hashtable.Add("5", "be");
 
 string getword = hashtable.GetElement("2");
-System.Console.WriteLine("4th index value is : " + getword);
+System.Console.WriteLine("2th index value is : " + getword);
         
 
