@@ -33,6 +33,6 @@ hashtable.Add("f16", "paranoid");
 hashtable.Add("f17", "avoidable");
 hashtable.Add("f18", "situations”");
 
-string getword = hashtable.GetElement("f12");
-System.Console.WriteLine("12th word in the given paragraph is  :" + getword);
+hashtable.RemovePerticularElement("f17");
+Console.WriteLine(" Word 'avoidable' was deleted from the above paragraph");
 
