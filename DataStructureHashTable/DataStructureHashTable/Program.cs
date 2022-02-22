@@ -10,8 +10,8 @@ MyMapNode<string, string> hashtable = new MyMapNode<string, string>(18);
 //hashtable.Add("4", "to");
 //hashtable.Add("5", "be");
 
-//string strHold = hashtable.GetElement("2");
-//System.Console.WriteLine("4th index value is : " + strHold);
+//string getword = hashtable.GetElement("2");
+//Console.WriteLine("2th index value is : " + getword);
 
 hashtable.Add("f0", "“Paranoids");
 hashtable.Add("f1", "are");
