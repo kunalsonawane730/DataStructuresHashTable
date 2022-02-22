@@ -11,7 +11,7 @@ MyMapNode<string, string> hashtable = new MyMapNode<string, string>(18);
 //hashtable.Add("5", "be");
 
 //string strHold = hashtable.GetElement("2");
-//System.Console.WriteLine("4th index value is : " + strHold);
+//System.Console.WriteLine("2th index value is : " + strHold);
 
 hashtable.Add("f0", "“Paranoids");
 hashtable.Add("f1", "are");
