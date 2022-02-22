@@ -63,7 +63,7 @@ namespace DataStructureHashTable
             list.AddLast(element);
         }
 
-        public void RemoveElement(k key)
+        public void RemovePerticularElement(k key)
         {
             int state = GetArrayPosition(key);
             LinkedList<KeyValue<k, v>> list = GetLinkedListElements(state);
