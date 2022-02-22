@@ -10,7 +10,7 @@ hashtable.Add("3", "not");
 hashtable.Add("4", "to");
 hashtable.Add("5", "be");
 
-string strHold = hashtable.GetElement("2");
-System.Console.WriteLine("4th index value is : " + strHold);
+string getword = hashtable.GetElement("2");
+System.Console.WriteLine("4th index value is : " + getword);
         
 
